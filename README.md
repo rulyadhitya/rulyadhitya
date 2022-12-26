@@ -1,5 +1,5 @@
 ### Halow! 👋
-X_X what's this??
+x_x what's this??
 <br>
 ## I'm Ruly, an marine information system student, community organizer and enthusiast.
 - 🔭 I’m currently working on this github profile 😅.
